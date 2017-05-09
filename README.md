@@ -134,7 +134,6 @@ footer {
 
 <ul >
 
-	<a href="javascript:void(0)" class="closebtn" onclick="closeNav()" >&times;</a>
 	<li> <a href="#">PIZZA</a></>
 	<li><a href="#">CREATE YOUR PIZZA</a></li>
 	<li><a href="#">PASTE</a></li>
